@@ -21,12 +21,12 @@
 
 </br>
 
-## My Skill Set
+## My Skill Set:
 <table align="center">
 	<tr>
 		<th>Programming Languages</th>
-    <th>Mobile App Development</th>
-    <th>Database & Frameworks </th>
+	        <th>Mobile App Development</th>
+	        <th>Database & Frameworks </th>
 		<th>DevOps</th>
 		<th>Others</th>
 	</tr>
