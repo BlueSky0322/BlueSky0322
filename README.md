@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋, I'm Ryan Ng</h2>
 <img src="https://github.com/BlueSky0322/BlueSky0322/blob/main/header-profile-v2.gif" alt="banner text">
 
 ## What I am up to:
